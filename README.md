@@ -7,7 +7,7 @@ This is a starter template for {{name}}, bundling using [Vite](https://vitejs.de
 ### Use create-ef-app
 
 ```bash
-npm init ef-app [project name] --template vite
+npm init ef-app <project name> -- --template vite
 ```
 
 ### Manually
@@ -26,7 +26,7 @@ After initlization, you can push the project to CodeSandbox using [CodeSandboxCl
 ### Start a dev server
 
 ```bash
-npm run dev
+npm start
 ```
 
 ### Build dist
