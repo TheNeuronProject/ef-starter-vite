@@ -1,11 +1,14 @@
 {
-  "name": "vite-ef-starter",
+  "name": "{{name}}",
   "version": "0.0.0",
+  "description": "{{description}}",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
+  "author": "{{contact}}",
+  "license": "{{license}}",
   "dependencies": {
     "ef-core": "^0.13.4"
   },
