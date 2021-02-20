@@ -19,7 +19,7 @@ npm init ef-app [project name] --template vite
 
 ### CodeSandbox
 
-Fork this [template](https://codesandbox.io/s/github/TheNeuronProject/ef-starter-vite).
+After initlization, you can push the project to CodeSandbox using [CodeSandboxCli](https://codesandbox.io/docs/api#import-local-projects-via-cli)
 
 ## Commands
 
@@ -36,5 +36,7 @@ npm run build
 ```
 
 ### Serve built files
+
+```bash
 npm run serve
 ```
