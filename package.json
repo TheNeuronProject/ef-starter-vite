@@ -10,11 +10,11 @@
   "author": "{{contact}}",
   "license": "{{license}}",
   "dependencies": {
-    "ef-core": "^0.13.4"
+    "ef-core": "^0.13.5"
   },
   "devDependencies": {
-    "eft-parser": "^0.13.3",
+    "eft-parser": "^0.13.5",
     "rollup-plugin-eft": "^0.13.4",
-    "vite": "^2.0.0"
+    "vite": "^2.0.5"
   }
 }
