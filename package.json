@@ -10,7 +10,7 @@
   "author": "{{contact}}",
   "license": "{{license}}",
   "dependencies": {
-    "ef-core": "^0.13.5"
+    "ef-core": "^0.13.6"
   },
   "devDependencies": {
     "eft-parser": "^0.13.5",
