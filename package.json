@@ -15,6 +15,6 @@
   "devDependencies": {
     "eft-parser": "^0.13.5",
     "rollup-plugin-eft": "^0.13.10",
-    "vite": "^2.5.1"
+    "vite": "^2.6.2"
   }
 }
