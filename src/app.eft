@@ -3,6 +3,16 @@
 		#src = /logo.png
 		#alt = logo
 	-hello
+	>p.counter
+		.Counter: &
+		>SpinBox
+			#type = number
+			%step = \{{step}}
+		>br
+		.Step: &
+		>SpinBox
+			#type = number
+			%value = \{{step = 1}}
 	>p.links
 		.Links:
 		+links
