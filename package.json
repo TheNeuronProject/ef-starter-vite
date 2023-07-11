@@ -9,6 +9,7 @@
   },
   "author": "{{contact}}",
   "license": "{{license}}",
+  "packageManager": "{{packageManager}}",
   "dependencies": {
     "ef-core": "^0.17.4"
   },
