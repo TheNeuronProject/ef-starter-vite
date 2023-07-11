@@ -7,7 +7,7 @@ This is a starter template for {{name}}, bundling using [Vite](https://vitejs.de
 ### Use create-ef-app
 
 ```bash
-npm init ef-app <project name> -- --template vite
+pnpm create ef-app <project name> -- --template vite
 ```
 
 ### Manually
@@ -17,26 +17,22 @@ npm init ef-app <project name> -- --template vite
 1. Change fields you want in `package.json`
 1. Start coding!
 
-### CodeSandbox
-
-After initlization, you can push the project to CodeSandbox using [CodeSandboxCli](https://codesandbox.io/docs/api#import-local-projects-via-cli)
-
 ## Commands
 
 ### Start a dev server
 
 ```bash
-npm start
+pnpm start
 ```
 
 ### Build dist
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ### Serve built files
 
 ```bash
-npm run serve
+pnpm run serve
 ```
